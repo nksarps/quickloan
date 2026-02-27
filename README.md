@@ -1,5 +1,7 @@
 # QuickLoan Mobile Ethical Data Review Lab
 
+**Author**: *Nana Kwaku Sarpong*
+
 ## Overview
 
 This lab project evaluates the data governance, quality, and ethical risks in QuickLoan Mobile’s loan application pipeline. QuickLoan Mobile is a Ghanaian fintech startup that provides instant micro-loans via a mobile app. The company’s fully automated machine learning (ML) loan-scoring system raised concerns regarding data collection practices, legal compliance, and algorithmic fairness.  
